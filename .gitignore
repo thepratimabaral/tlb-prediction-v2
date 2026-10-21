@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# data is too big for github
+data/*.csv
+
+# model files
+outputs/*.json
+outputs/*.joblib
+
+.venv/
+venv/
+env/
+catboost_info/
